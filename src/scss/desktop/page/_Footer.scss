@@ -5,7 +5,10 @@
         right: 0;
 
         .footer-inner {
-            background-color: #7882A4;
+            background: linear-gradient(135deg, #7882A4, #9F87C0, #7882A4); /* 보라색 계열 그라데이션 */
+            color: white; /* 텍스트 가독성을 위해 흰색 텍스트 사용 */
+            border-top: 1px solid rgba(255, 255, 255, 0.3); /* 고급스러운 상단 경계선 */
+            box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.2); /* 약간의 그림자 효과 */
 
             .container {
                 display: flex;
