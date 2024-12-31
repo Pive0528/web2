@@ -44,10 +44,10 @@ function About() {
                         </ul>
                         <ul>
                             <li>
-                                <a href="https://github.com/Pive0528"><GoMarkGithub/><span>Github</span></a>
+                                <a href="https://github.com/Pive0528" title={"클릭하면 깃허브 페이지로 이동합니다."}><GoMarkGithub/><span>Github</span></a>
                             </li>
                             <li>
-                                <a href="https://velog.io/@pive0528"><SiBloglovin/><span>My BLOG</span></a>
+                                <a href="https://velog.io/@pive0528" title={"클릭하면 벨로그 페이지로 이동합니다."}><SiBloglovin/><span>My BLOG</span></a>
                             </li>
                         </ul>
                     </div>
