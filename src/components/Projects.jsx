@@ -5,7 +5,7 @@ import Card from './Card';
 function Projects() {
     const projects = [
         {
-            title: "Coupang-Discovery",
+            title: "개인프로젝트 - HanDari",
             image: "Coupang-Discovery.png",
             detail: "쿠팡 웹페이지의 <오늘의 발견> 영역을 마크업한 결과물입니다.",
             start: "2022.05.12",
@@ -16,7 +16,7 @@ function Projects() {
             source: "https://github.com/SavinPark/coupang-discovery",
         },
         {
-            title: "Coupang-Offer",
+            title: "팀 프로젝트 - StarInfoWeb",
             image: "Coupang-Offer.png",
             detail: "쿠팡 웹페이지의 <오늘의 쇼핑 제안> 영역을 마크업한 결과물입니다.",
             start: "2022.05.12",
@@ -27,7 +27,7 @@ function Projects() {
             source: "https://github.com/SavinPark/coupang-offer",
         },
         {
-            title: "Coupang-Category Best",
+            title: "Todo List App",
             image: "Coupang-CategoryBest.png",
             detail: "쿠팡 웹페이지의 <카테고리별 추천 광고상품> 영역을 마크업한 결과물입니다.",
             start: "2022.05.12",
@@ -38,7 +38,7 @@ function Projects() {
             source: "https://github.com/SavinPark/coupang-categoryBest",
         },
         {
-            title: "Coupang-Header",
+            title: "박태은 웹 포트폴리오",
             image: "Coupang-Header.png",
             detail: "쿠팡 웹페이지의 <헤더> 영역을 마크업한 결과물입니다.",
             start: "2022.05.12",

@@ -1,6 +1,5 @@
 import React from "react";
 import FrameImage from "../images/Frame.png";
-import FrameImage2 from "../images/Frame2.png";
 
 function Skills() {
 
@@ -9,7 +8,7 @@ function Skills() {
             <h2>Main Skills</h2>
             <img
                 src={FrameImage}
-                style={{ width: "80%",  marginTop: "20px" }}
+                style={{ width: "82%",  marginTop: "20px" }}
             />
         </section>
     );

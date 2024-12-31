@@ -9,7 +9,7 @@ function About() {
             <div id="introduction" className="about-inner">
                 <div className="typeit">
                     <TypeIt options={{
-                        strings: ["안녕하세요.<br/>끊임없는 자기성찰을 통해 성장하는 개발자, 박태은입니다!"],
+                        strings: "안녕하세요.<br/>끊임없는 자기성찰을 통해 성장하는 개발자, 박태은입니다!",
                         speed: 80,
                         waitUntilVisible: true,
                     }}/>
@@ -19,7 +19,7 @@ function About() {
                 <p>대학에서는 컴퓨터정보보안학과에 진학하여 다양한 프로그래밍 언어와</p>
                 <p>IT 개발환경을 접하며 이 꿈을 더욱 키워나갔습니다.</p>
                 <p>대학 졸업 후에는 웹앱 개발자 교육과정을 통해 Java 웹 개발에 대한</p>
-                <p>깊이 있는 지식을 쌓아 나갔고, 실제 프로젝트를 경험헤보며 실력을 향상시켰습니다.</p>
+                <p>깊이 있는 지식을 쌓아 나갔고, 실제 프로젝트를 경험해보며 실력을 향상시켰습니다.</p>
                 <p>이러한 경험을 바탕으로, 새로운 기술에 대한 끊임없는 학습과</p>
                 <p>실무 경험을 통한 문제 해결 능력 향상에 집중하는</p>
                 <p>한 사람 분량 이상을 하는 개발자가 되고 싶습니다.</p>
@@ -46,7 +46,9 @@ function About() {
                             <li>
                                 <a href="https://github.com/Pive0528"><GoMarkGithub/><span>Github</span></a>
                             </li>
-                            <li><a href="https://velog.io/@pive0528"><SiBloglovin/><span>My BLOG</span></a></li>
+                            <li>
+                                <a href="https://velog.io/@pive0528"><SiBloglovin/><span>My BLOG</span></a>
+                            </li>
                         </ul>
                     </div>
                 </div>
