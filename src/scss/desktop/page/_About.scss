@@ -33,7 +33,7 @@
         #profile {
             padding-bottom: 20px;
             background-color: #fff;
-            box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, .25);
+            box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, .20);
 
             h2 {
                 margin: 20px 0 20px;
@@ -49,8 +49,8 @@
                 display: flex;
                 width: 280px;
                 height: 360px;
-                border-radius: 50%;
-                background-image: url('./profileImg.webp');
+                border-radius: 10%;
+                background-image: url('../../../../public/images/Profile_image.png');
                 background-size: cover;
             }
 

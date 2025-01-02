@@ -42,16 +42,9 @@ function Card ({proj}) {
                     </ul>
                 </div>
                 <div className="back-inner work">
-                    <h4># My Work</h4>
-                    <ul className="lang">
-                        {proj.work.map((ele) => {
-                        return(<li key={`${proj.title}-${ele}`}><BsDot className="dot"/>{ele}</li>);
-                        })}
-                    </ul>
                 </div>
                 <div className="btn-group" onClick={onAlert}>
                     <a href={proj.source}><button>Source Code</button></a>
-                    <a href={proj.demo}><button>Demo</button></a>
                 </div>
             </div>
         </div>
